@@ -4,3 +4,4 @@ def hello(name):
 print(hello('Vladimir'))
 
 
+print('THEEND')
